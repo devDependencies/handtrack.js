@@ -1,3 +1,5 @@
+通过摄像头 计算手部移动
+
 ## Handtrack.js
 
 [![npm version](https://badge.fury.io/js/handtrackjs.svg)](https://badge.fury.io/js/handtrackjs)
